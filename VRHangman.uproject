@@ -1,0 +1,1 @@
+{"FileVersion": 3,"EngineAssociation": "5.4","Category": "VR","Description": "A VR Hangman game built with Unreal Engine and SteamVR","Modules": [{"Name": "VRHangman","Type": "Runtime","LoadingPhase": "Default","PlatformAllowList": ["Win64"]}],"Plugins": [{"Name": "SteamVR","Enabled": true},{"Name": "OpenXR","Enabled": true}]}
