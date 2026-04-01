@@ -1,0 +1,27 @@
+# Unreal Engine
+
+# Built data
+DerivedDataCache/
+Binaries/
+Build/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vs/
+*.sdf
+*.suo
+*.user
+*.userprefs
+*.sln
+
+# Mac
+.DS_Store
+
+# Log files
+*.log
+*.tmp
+
+# Backup
+*.bak
+*.swp
